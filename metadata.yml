@@ -1,0 +1,12 @@
+---
+:id: 1107134
+:submitters:
+- :name: Yorick-Ntwari Niyonkuru
+  :email: 1950699@johnabbottcollege.net
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-08-30 16:51:09.045573000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-08-30 09:51:09.045573000 Z
+:status: processed
+:score: 2.75
